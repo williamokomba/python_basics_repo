@@ -1,1 +1,2 @@
-# python_basics_repo
+## python_basics
+this notebook introduce you to python
